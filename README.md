@@ -20,3 +20,5 @@ Under each folder, there are 2 subfolders named rotten and fresh.
 We have taken a total of 7 fruits : apple, banana, mango, orange, pomegranate, strawberry, tomato.
 
 There are around 15,000 images in the dataset.
+
+Dataset link - https://drive.google.com/drive/folders/1th9JYQO97I0L1tgghvlrSP_9ypsrwWqd?usp=sharing
